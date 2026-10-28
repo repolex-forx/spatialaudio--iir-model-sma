@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "spatialaudio",
+  "repo": "iir-model-sma",
+  "versions": [
+    {
+      "commit": "fa67a2c35561cfb8ed50eddca6e484ad75ab13db",
+      "parsed_at": "2026-10-28T18:47:34.825416+00:00",
+      "filetree": "filetree/fa67a2c35561cfb8ed50eddca6e484ad75ab13db.nq.gz",
+      "blobs": [
+        "blob/f4c03f28d71b04caad3e2d5d383892485c91d172.nq.gz",
+        "blob/8f61f2a729122dcdcaec119d7ea86182dce44d97.nq.gz",
+        "blob/0e9821298962d834a758b3a636887dfea0e82364.nq.gz",
+        "blob/9e02fe8c9f6714ebffb59b0c084e45911123af75.nq.gz",
+        "blob/76a79efdcdb4117ac23526378ffc481f51c83659.nq.gz",
+        "blob/b75c7d2c951d3e34fc54a00dd0d6c101a596452f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
