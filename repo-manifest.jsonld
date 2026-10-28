@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/iir-model-sma/commit/fa67a2c35561cfb8ed50eddca6e484ad75ab13db",
       "git:hexsha": "fa67a2c35561cfb8ed50eddca6e484ad75ab13db",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
